@@ -1,0 +1,29 @@
+{
+  "name": "mm-rethinkdb-schema",
+  "version": "1.0.0",
+  "description": "Rethinkdb schema extension for Matter In Motion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matter-in-motion/mm-rethinkdb-schema.git"
+  },
+  "keywords": [
+    "matter",
+    "in",
+    "motion",
+    "mm",
+    "database",
+    "rethinkdb",
+    "schema",
+    "extension"
+  ],
+  "author": "Alexey Novikov <v@2dubs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matter-in-motion/mm-rethinkdb-schema/issues"
+  },
+  "homepage": "https://github.com/matter-in-motion/mm-rethinkdb-schema#readme"
+}
