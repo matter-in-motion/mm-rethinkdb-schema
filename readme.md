@@ -9,6 +9,6 @@ Check the [db schema extension](https://github.com/matter-in-motion/mm-db-schema
 
 ## Usage
 
-[Extensions installation intructions](https://github.com/matter-in-motion/mm/blob/master/docs/extensions.md)
+[Extensions installation instructions](https://github.com/matter-in-motion/mm/blob/master/docs/extensions.md)
 
 License: MIT.
